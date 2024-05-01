@@ -14,3 +14,4 @@ pytube==15.0.0
 git+https://github.com/openai/whisper.git
 langchain[docarray]
 pydantic==1.10.9
+langchain_pinecone
