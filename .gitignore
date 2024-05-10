@@ -30,3 +30,6 @@ logs/
 *.log
 
 **/config.ini
+
+.databricks
+secret_w/
